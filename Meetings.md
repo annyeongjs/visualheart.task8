@@ -1,3 +1,9 @@
+###Video Production: December 6, 2013
+- **Summary**
+  - Met up with Danielle and some others to record questions
+  - These interviews will be shown at the Data Science Fair!
+    - Alisha + Christina; other members could not make it
+
 ###Class: December 5, 2013
 
 - **Summary**
