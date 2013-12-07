@@ -64,7 +64,6 @@
 - **Meetings.md** logs our group meetings from Nov 09, 2013 to Dec 12, 2013
 - **Roadblocks.md** logs some roadblocks encountered when dealing with Quaker Code.
   - should probably be merged with ImprovingGraphs.md
-
-Folders
+- Folders
   - each of the folders correspond to a folder found in the Quaker's repo. 
   - in each folder, improved code is found
