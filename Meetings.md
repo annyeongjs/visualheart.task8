@@ -1,3 +1,9 @@
+###Class: December 10, 2013
+- **Summary**
+  - Helped groups with posters
+  - Qi sent the link to our repo that improves the graphs
+  - the improved graphs will be part of the final presentation
+
 ###Video Production: December 6, 2013
 - **Summary**
   - Met up with Danielle and some others to record questions
