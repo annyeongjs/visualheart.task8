@@ -53,8 +53,8 @@
 
 
 ### Facebook Group
-Public: https://www.facebook.com/groups/187543704763841/
-Private: https://www.facebook.com/groups/554307697997441/
+- Public (General Visualizers Group): https://www.facebook.com/groups/187543704763841/
+- Private (Heart Group): https://www.facebook.com/groups/554307697997441/
 
 ## Current Task
 - Class is over! But learning never stops :)
