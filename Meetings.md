@@ -1,6 +1,7 @@
 ###Data Science Fair: December 12, 2013
 - **Summary** 
   - Poster + videos were up and running! Many other groups were presenting at the fair
+  - Image: https://github.com/annyeongjs/visualheart.task8/issues/16
 
 ###Class: December 10, 2013
 - **Summary**
