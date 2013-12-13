@@ -1,8 +1,12 @@
+###Data Science Fair: December 12, 2013
+- **Summary** 
+  - Poster + videos were up and running! Many other groups were presenting at the fair
+
 ###Class: December 10, 2013
 - **Summary**
   - Helped groups with posters
   - Qi sent the link to our repo that improves the graphs
-  - the improved graphs will be part of the final presentation
+  - Improved graphs will be part of the final presentation
 
 ###Video Production: December 6, 2013
 - **Summary**
