@@ -67,8 +67,6 @@ Private: https://www.facebook.com/groups/554307697997441/
 - **LuenSummary.md** is a summary of a part of Luen's "Testing Earthquake Predictions" paper
   - Paper: http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?view=body&id=pdf_1&handle=euclid.imsc/1207580090
 - **Meetings.md** logs our group meetings from Nov 09, 2013 to Dec 12, 2013
-- **Roadblocks.md** logs some roadblocks encountered when dealing with Quaker Code.
-  - should probably be merged with ImprovingGraphs.md
 - Folders
   - each of the folders correspond to a folder found in the Quaker's repo. 
   - in each folder, improved code is found
